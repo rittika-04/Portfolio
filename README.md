@@ -43,6 +43,9 @@ Make sure you have Node.js and npm installed on your machine.
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
+### License
+Distributed under the MIT License. See LICENSE for more information.
+
 ### Installation
 
 1. Clone the repo

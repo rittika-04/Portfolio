@@ -15,7 +15,7 @@ This is my personal portfolio website built with React. It showcases my projects
 
 ## Demo
 
-You can view a live demo of the portfolio [[here](https://your-portfolio-link.com)](https://portfolio-9czt.vercel.app/).
+You can view a live demo of the portfolio [[here](https://portfolio-9czt.vercel.app/)].
 
 ## Features
 

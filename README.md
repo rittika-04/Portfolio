@@ -1,6 +1,7 @@
 # My Portfolio
 
 This is my personal portfolio website built with React. It showcases my projects, skills, and contact information.
+Light Mode
 ![image](https://github.com/user-attachments/assets/87fbc136-2ab5-4f08-a245-529afa520ee6)
 
 

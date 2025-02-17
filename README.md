@@ -6,6 +6,9 @@ Light Mode
 
 ![image](https://github.com/user-attachments/assets/87fbc136-2ab5-4f08-a245-529afa520ee6)
 
+Dark Mode
+
+![Image](https://github.com/user-attachments/assets/ff31c057-cfd6-4815-b20c-e839034979d5)
 
 ## Table of Contents
 

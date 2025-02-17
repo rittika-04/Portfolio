@@ -1,6 +1,8 @@
 # My Portfolio
 
 This is my personal portfolio website built with React. It showcases my projects, skills, and contact information.
+![Uploading image.png…]()
+
 
 ## Table of Contents
 

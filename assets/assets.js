@@ -79,11 +79,11 @@ export const workData = [
         liveDemo: 'https://news-magazine-live.com', // ✅ Live project link
     },
     {
-        title: 'Music App - Replica',
+        title: 'Spotify - Clone ',
         description: 'Music App',
         bgImage: '/work-2.png',
-        github: 'https://github.com/rittika04/music-app',
-        liveDemo: 'https://music-app-live.com',
+        github: 'https://github.com/rittika-04/Spotify-Clone',
+        liveDemo: 'https://spotify-clone-o7los2dj1-rittika04s-projects.vercel.app/',
     },
     {
         title: 'Photography Site',

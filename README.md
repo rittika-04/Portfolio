@@ -1,7 +1,22 @@
-# My Portfolio
+# My Portfolio Website
+A fully responsive portfolio website built with React, Tailwind CSS, and Vite. The website includes both light and dark mode for an enhanced user experience
 
-This is my personal portfolio website built with React. It showcases my projects, skills, and contact information.
+# Features🌐 Fully Responsive - Optimized for all screen sizes
+🎨 Light & Dark Mode - Toggle between themes seamlessly
+⚡ Fast Performance - Built with Vite for quick loading
+📌 Modern UI - Clean and minimal design
 
+# Tech StackReact - Component-based UI
+Tailwind CSS - Utility-first styling
+Vite - Fast development build tool
+
+# Installation
+1. Clone the repository: git clone https://github.com/rittika-04/portfolio.git
+2. Navigate to the project directory: cd portfolio
+3. Install dependencies: npm install
+4. Start the development server: npm run dev
+
+# Screenshots
 Light Mode
 
 ![image](https://github.com/user-attachments/assets/87fbc136-2ab5-4f08-a245-529afa520ee6)
@@ -10,52 +25,12 @@ Dark Mode
 
 ![Image](https://github.com/user-attachments/assets/ff31c057-cfd6-4815-b20c-e839034979d5)
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Demo
+# Demo
 
 You can view a live demo of the portfolio [[here](https://portfolio-9czt.vercel.app/)].
 
-## Features
+# Contributing
+Feel free to fork this repository and make improvements. Contributions are welcome!
 
-- Responsive design
-- About section
-- Projects section
-- Contact form
-- Footer with social media links
-
-## Technologies Used
-
-- React
-- CSS (or any CSS framework/library you used, e.g., styled-components, Sass)
-- React Router (if used for navigation)
-- Other libraries or tools (e.g., Axios for API calls, Formik for forms, etc.)
-
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-Make sure you have Node.js and npm installed on your machine.
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### License
-Distributed under the MIT License. See LICENSE for more information.
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/rittika-04/portfolio.git
+# License
+This project is licensed under the MIT License.

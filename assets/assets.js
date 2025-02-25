@@ -105,42 +105,48 @@ export const workData = [
 
 export const serviceData = [
     {
-      title: "JPMorgan Chase Virtual Internship",
-      description: "Completed a job simulation covering Kafka, REST API, and backend tasks.",
-      bgImage: "/certificates/jpmorgan_certificate.png",
-      link: "/certificates/jpmorgan_certificate.pdf",
-      category: "Internships",
+        title: "JPMorgan Chase Virtual Internship",
+        description: "Completed a job simulation covering Kafka, REST API, and backend tasks.",
+        bgImage: "/certificates/jpmorgan_certificate.png",
+        link: "/certificates/jpmorgan_certificate.pdf",
+        category: "Work & Research",
     },
     {
-      title: "Prompt and Response Generator Internship",
-      description: "Worked on automated NLP-based prompt-response generation.",
-      bgImage: "/certificates/prompt_certificate.png",
-      link: "/certificates/prompt_certificate.pdf",
-      category: "Internships",
+        title: "Prompt and Response Generator Internship",
+        description: "Worked on automated NLP-based prompt-response generation.",
+        bgImage: "/certificates/prompt_certificate.png",
+        link: "/certificates/prompt_certificate.pdf",
+        category: "Work & Research",
     },
     {
-        "title": "Crash Course on Python",
-        "description": "Completed a foundational course on Python covering syntax, data structures, functions, and automation, equipping me with essential programming skills.",
-        "bgImage": "/certificates/python_certificate-1.png",
-        "link": "/certificates/python_certificate.pdf",
-        "category": "Courses"
-      }, 
+        title: "Paper Publication on Road Safety using Pulse and EEG",
+        description: "Published a research paper on preventing road accidents using EEG and pulse sensor data analysis.",
+        bgImage: "/certificates/paper_publication.jpeg",
+        link: "/certificates/paper_publication.pdf",
+        category: "Work & Research",
+    },
+    {
+        title: "Crash Course on Python",
+        description: "Completed a foundational course on Python covering syntax, data structures, functions, and automation, equipping me with essential programming skills.",
+        bgImage: "/certificates/python_certificate-1.png",
+        link: "/certificates/python_certificate.pdf",
+        category: "Courses"
+    }, 
     {
         title: "Full Stack Web Development",
         description: "Completed a certification covering frontend and backend development, including React, Node.js, and databases.",
-        bgImage: "/certificates/full-stack-1.png", // Ensure the correct image path
-        link: "/certificates/full-stack_certificate.pdf", // Ensure the correct PDF path
+        bgImage: "/certificates/full-stack-1.png",
+        link: "/certificates/full-stack_certificate.pdf",
         category: "Courses",
-      },
-      {
+    },
+    {
         title: "Data Structures using C",
         description: "Earned a certification in data structures, covering arrays, linked lists, stacks, queues, trees, and graphs using C.",
-        bgImage: "/certificates/c_certificate-1.png", // Ensure correct image path
-        link: "/certificates/c_certificate.pdf", // Ensure correct PDF path
+        bgImage: "/certificates/c_certificate-1.png",
+        link: "/certificates/c_certificate.pdf",
         category: "Courses",
-      }
+    }
 ];
-
 
 
 export const infoList = [

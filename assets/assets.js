@@ -85,6 +85,13 @@ export const workData = [
         github: 'https://github.com/rittika-04/Spotify-Clone',
         liveDemo: 'https://spotify-clone-o7los2dj1-rittika04s-projects.vercel.app/',
     },
+    {
+        title: 'Chat App ',
+        description: 'Chat App',
+        bgImage: '/work-3.png',
+        github: 'https://github.com/rittika-04/Chat-App',
+        liveDemo: 'https://chat-o71qsdody-rittika04s-projects.vercel.app/',
+    },
     
 ];
 

@@ -77,7 +77,7 @@ const Header = () => {
           initial={{ y: 30, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.6, delay: 1.2 }}
-          href="https://github.com/rittika04"
+          href="https://github.com/rittika-04"
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 border-2 border-gray-700 rounded-full flex items-center gap-2 hover:border-black transition duration-300"

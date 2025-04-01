@@ -72,11 +72,11 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'News-Magazine',
-        description: 'News App',
+        title: 'Rick-morty ',
+        description: 'Rick -morty',
         bgImage: '/work-1.png',
-        github: 'https://github.com/rittika04/news-magazine', // ✅ GitHub repo link
-        liveDemo: 'https://news-magazine-live.com', // ✅ Live project link
+        github: 'https://github.com/rittika-04/rick-morty-main.git', // ✅ GitHub repo link
+        liveDemo: 'https://rick-morty-three-gules.vercel.app/', // ✅ Live project link
     },
     {
         title: 'Spotify - Clone ',

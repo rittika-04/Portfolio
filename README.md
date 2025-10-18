@@ -26,4 +26,3 @@ Feel free to fork this repository and make improvements. Contributions are welco
 
 # License
 This project is licensed under the MIT License.
->>>>>>> 467930416bc09cc71460167be050cbc7f70d6700

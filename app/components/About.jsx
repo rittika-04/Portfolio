@@ -120,6 +120,7 @@ const About = ({ isDarkMode }) => {
         </motion.div>
       </motion.div>
     </motion.div>
+    
   );
 };
 

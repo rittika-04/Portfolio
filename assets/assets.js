@@ -72,11 +72,11 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'News-Magazine',
-        description: 'News App',
+        title: 'Rick-morty ',
+        description: 'Rick -morty',
         bgImage: '/work-1.png',
-        github: 'https://github.com/rittika04/news-magazine', // ✅ GitHub repo link
-        liveDemo: 'https://news-magazine-live.com', // ✅ Live project link
+        github: 'https://github.com/rittika-04/rick-morty-main.git', // ✅ GitHub repo link
+        liveDemo: 'https://rick-morty-three-gules.vercel.app/', // ✅ Live project link
     },
     {
         title: 'Spotify - Clone ',
@@ -86,19 +86,13 @@ export const workData = [
         liveDemo: 'https://spotify-clone-o7los2dj1-rittika04s-projects.vercel.app/',
     },
     {
-        title: 'Photography Site',
-        description: 'Web Design',
+        title: 'Chat App ',
+        description: 'Chat App',
         bgImage: '/work-3.png',
-        github: 'https://github.com/rittika04/photography-site',
-        liveDemo: 'https://photography-site-live.com',
+        github: 'https://github.com/rittika-04/Chat-App',
+        liveDemo: 'https://chat-o71qsdody-rittika04s-projects.vercel.app/',
     },
-    {
-        title: 'UI/UX Designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
-        github: 'https://github.com/rittika04/ui-ux-design',
-        liveDemo: 'https://uiux-design-live.com',
-    },
+    
 ];
 
 
@@ -118,13 +112,15 @@ export const serviceData = [
         link: "/certificates/prompt_certificate.pdf",
         category: "Work & Research",
     },
+    
     {
-        title: "Paper Publication on Road Safety using Pulse and EEG",
-        description: "Published a research paper on preventing road accidents using EEG and pulse sensor data analysis.",
-        bgImage: "/certificates/paper_publication.jpeg",
-        link: "/certificates/paper_publication.pdf",
-        category: "Work & Research",
+        "title": "Paper Publication on Alzheimer's Disease Brain Metabolism and Imaging: A Short Review",
+        "description": "Published a research paper analyzing brain metabolism and imaging techniques related to Alzheimer's disease, providing insights into early diagnosis and treatment.",
+        "bgImage": "/certificates/paper_publication.jpeg",
+        "link": "/certificates/paper_publication.pdf",
+        "category": "Work & Research"
     },
+
     {
         title: "Crash Course on Python",
         description: "Completed a foundational course on Python covering syntax, data structures, functions, and automation, equipping me with essential programming skills.",

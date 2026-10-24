@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import { serviceData } from "@/assets/assets"; // ✅ Import certificate data
 
 const Services = () => {

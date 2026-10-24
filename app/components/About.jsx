@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 
 const skills = ["React.js", "JavaScript", "HTML5", "CSS3", "REST APIs", "Node.js", "SQL / MySQL", "Git & GitHub", "Postman"];
 

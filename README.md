@@ -1,28 +1,54 @@
-# My Portfolio Website
-A fully responsive portfolio website built with React, Tailwind CSS, and Vite. The website includes both light and dark mode for an enhanced user experience
+# Portfolio Website
 
-# Features🌐 Fully Responsive - Optimized for all screen sizes
-🎨 Light & Dark Mode - Toggle between themes seamlessly
-⚡ Fast Performance - Built with Vite for quick loading
-📌 Modern UI - Clean and minimal design
+Personal portfolio website showcasing my background, skills, and projects.
 
-# Tech StackReact - Component-based UI
-Tailwind CSS - Utility-first styling
-Vite - Fast development build tool
+**Live site:** https://portfolio-9czt.vercel.app/  
+**Source code:** https://github.com/rittika-04/Portfolio
 
-# Installation
-1. Clone the repository: git clone https://github.com/rittika-04/portfolio.git
-2. Navigate to the project directory: cd portfolio
-3. Install dependencies: npm install
-4. Start the development server: npm run dev
+## Tech stack
 
+- Next.js
+- React
+- Tailwind CSS
+- Motion
 
-# Demo
+See `package.json` for the current dependency versions and scripts.
 
-You can view a live demo of the portfolio [[here](https://portfolio-9czt.vercel.app/)].
+## Features
 
-# Contributing
-Feel free to fork this repository and make improvements. Contributions are welcome!
+The project README previously described responsive layouts and a light/dark theme. Keep this list aligned with the features currently implemented in the deployed application.
 
-# License
-This project is licensed under the MIT License.
+## Run locally
+
+### Prerequisites
+
+- Node.js and npm
+
+### Setup
+
+```bash
+git clone https://github.com/rittika-04/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+```
+
+Open the local URL printed by Next.js in your terminal.
+
+## Production build
+
+```bash
+npm run build
+npm start
+```
+
+## Improvements to consider
+
+- Add screenshots of the current live design.
+- Document the main pages and components.
+- Include accessibility and responsive behavior details after verifying them.
+- Keep deployment and feature descriptions current.
+
+## Author
+
+Rittika Shaw — [GitHub](https://github.com/rittika-04) · [LinkedIn](https://linkedin.com/in/rittika-shaw-41454023b)
